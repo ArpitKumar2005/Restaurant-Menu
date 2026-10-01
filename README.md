@@ -34,4 +34,4 @@ Open `script.js` and add a new line inside the `menuItems` array:
 ```
 
 ## Author
-Your Name - Arpit Kumar 
+Arpit Kumar 
